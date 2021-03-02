@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\Pbl\Pbl\bin\Debug\Pbl.exe.config
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.Form1.resources
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Pbl\Pbl\bin\Debug\Pbl.exe
+C:\Users\User\Desktop\Pbl\Pbl\bin\Debug\Pbl.pdb
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.exe
+C:\Users\User\Desktop\Pbl\Pbl\obj\Debug\Pbl.pdb
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\bin\Debug\Pbl.exe.config
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.exe
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.pdb
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\bin\Debug\Pbl.exe
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\bin\Debug\Pbl.pdb
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.Form1.resources
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\pbl\pbl\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+G:\pbl\pbl\Pbl\bin\Debug\Pbl.exe.config
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.exe
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.pdb
+G:\pbl\pbl\Pbl\bin\Debug\Pbl.exe
+G:\pbl\pbl\Pbl\bin\Debug\Pbl.pdb
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.Form1.resources
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+G:\pbl\pbl\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+F:\pbl\pbl\Pbl\bin\Debug\Pbl.exe.config
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.exe
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.pdb
+F:\pbl\pbl\Pbl\bin\Debug\Pbl.exe
+F:\pbl\pbl\Pbl\bin\Debug\Pbl.pdb
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.Form1.resources
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+E:\pbl\pbl\Pbl\bin\Debug\Pbl.exe.config
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.exe
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.pdb
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.Form1.resources
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+E:\pbl\pbl\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+E:\pbl\pbl\Pbl\bin\Debug\Pbl.exe
+E:\pbl\pbl\Pbl\bin\Debug\Pbl.pdb
+F:\pbl\pbl\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\bin\Debug\Pbl.exe.config
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.exe
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.pdb
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\bin\Debug\Pbl.exe
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\bin\Debug\Pbl.pdb
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.csprojResolveAssemblyReference.cache
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.Form1.resources
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.Properties.Resources.resources
+C:\Users\kobis\OneDrive\Desktop\pbl (1)-20201228T143214Z-001\pbl (1)\Pbl\obj\Debug\Pbl.csproj.GenerateResource.Cache
+C:\Users\kobis\OneDrive\Desktop\pbl (1)\Pbl\bin\Debug\Pbl.exe.config
+C:\Users\kobis\OneDrive\Desktop\pbl (1)\Pbl\obj\Debug\Pbl.exe
+C:\Users\kobis\OneDrive\Desktop\pbl (1)\Pbl\obj\Debug\Pbl.pdb
